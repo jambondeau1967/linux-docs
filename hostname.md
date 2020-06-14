@@ -1,3 +1,2 @@
-hostnamectl\
-hostnamectl set-hostname newname\
-hostnamectl
+sudo hostnamectl set-hostname newname\
+sudo hostnamectl
