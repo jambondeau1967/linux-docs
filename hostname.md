@@ -1,3 +1,3 @@
 hostnamectl\
 hostnamectl set-hostname newname\
-hostnamectl\
+hostnamectl
